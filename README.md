@@ -9,6 +9,8 @@ What I know so far:
 
 Let's begin :)
 
+<br>
+<br>
 
 December 11th 2020
 - finished React and Vue app
