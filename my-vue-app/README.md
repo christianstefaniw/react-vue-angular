@@ -1,2 +1,2 @@
 # my-vue-app
-A calculator made with Vue1!
+A calculator made with Vue!
