@@ -13,6 +13,10 @@ Let's begin :)
 <br>
 
 December 11th 2020
-- finished React and Vue app
-- React and Vue are suoer cool!
-- I am looking forwards to creating an Angular app :)
+- Finished React, Vue, and Angular app
+- They are all super cool!
+- Vue does have a small learning curve
+- Angular was easier than I expected
+- I will focus my time on learning React due to the popularity
+  - Vue and Angular weren't outstanding enough to convince me to use them over the way more popular React library
+  - I will continue to spend some time learning Vue because I think it will be very good for smaller projects
